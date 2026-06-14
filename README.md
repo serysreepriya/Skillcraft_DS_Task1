@@ -81,7 +81,7 @@ Through this project, I gained practical experience in:
 
 ## 👤 Author
 
-**Sreepriya**  
+**Sery Sreepriya**  
 *Data Science Intern – SkillCraft Technology*
 
 
